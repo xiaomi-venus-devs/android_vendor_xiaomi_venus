@@ -262,7 +262,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/venus/proprietary/vendor/firmware/spk2_playback_delta.txt:$(TARGET_COPY_OUT_VENDOR)/firmware/spk2_playback_delta.txt \
     vendor/xiaomi/venus/proprietary/vendor/firmware/spk2_voice_delta.txt:$(TARGET_COPY_OUT_VENDOR)/firmware/spk2_voice_delta.txt \
     vendor/xiaomi/venus/proprietary/vendor/firmware/st_fts_k2.ftb:$(TARGET_COPY_OUT_VENDOR)/firmware/st_fts_k2.ftb \
+    vendor/xiaomi/venus/proprietary/vendor_ramdisk/lib/firmware/st_fts_k2.ftb:$(TARGET_COPY_OUT_VENDOR_RAMDISK)/lib/firmware/st_fts_k2.ftb \
     vendor/xiaomi/venus/proprietary/vendor/firmware/st_fts_k2_htp.ftb:$(TARGET_COPY_OUT_VENDOR)/firmware/st_fts_k2_htp.ftb \
+    vendor/xiaomi/venus/proprietary/vendor_ramdisk/lib/firmware/st_fts_k2_htp.ftb:$(TARGET_COPY_OUT_VENDOR_RAMDISK)/lib/firmware/st_fts_k2_htp.ftb \
     vendor/xiaomi/venus/proprietary/vendor/firmware/venus_bu63169_ois.coeff:$(TARGET_COPY_OUT_VENDOR)/firmware/venus_bu63169_ois.coeff \
     vendor/xiaomi/venus/proprietary/vendor/firmware/venus_bu63169_ois.prog:$(TARGET_COPY_OUT_VENDOR)/firmware/venus_bu63169_ois.prog \
     vendor/xiaomi/venus/proprietary/vendor/firmware/vpu20_2v.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_2v.b00 \
